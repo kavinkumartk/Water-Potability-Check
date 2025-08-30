@@ -93,3 +93,8 @@ You can try out the model and make predictions on water potability directly from
    git clone <https://github.com/kavinkumartk/Water-Potability-Check>
 
 ---
+
+AUTHOR:KAVINKUMAR T
+GITHUB LINK:https://github.com/kavinkumartk
+
+---
