@@ -31,4 +31,4 @@ if st.button("Check Potability"):
     if prediction == 1:
         st.success(f"Can Drink(1).")
     else:
-        st.error(f"TCannot Drink(0).")
+        st.error(f"Cannot Drink(0).")
